@@ -27,8 +27,8 @@ db.getCollection('students').insertMany([
   }
   
 ]);
+
 // fetching data in the collection
 
 // updating the data in the collection
-
 
